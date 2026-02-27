@@ -1,0 +1,2 @@
+# Regulamin
+Regulamin płatności MiecioMC
